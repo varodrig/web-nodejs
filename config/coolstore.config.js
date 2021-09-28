@@ -1,6 +1,6 @@
 var config = {
     API_ENDPOINT: 'gateway-vertx-' + process.env.OPENSHIFT_BUILD_NAMESPACE,
-    SECURE_API_ENDPOINT: 'gateway-vertx-' + process.env.SECURE_COOLSTORE_GW_SERVICE,
+    SECURE_API_ENDPOINT: 'gateway-vertx-' + process.env.OPENSHIFT_BUILD_NAMESPACE,
     SSO_ENABLED: process.env.SSO_URL ? true : false
 };
 
