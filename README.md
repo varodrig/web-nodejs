@@ -3,7 +3,9 @@ CoolStore Frontend with NodeJS and AngularJS
 
 The overall architecture of the application that you will deploy is the following:
 
-![Coolstore Architecture](coolstore-arch.png)
+
+<br>
+<img src="coolstore-arch.png" width="400" alt="Coolstore Architecture">
 
 During the various steps of the the workshop you will use CodeReady Workspaces, an online IDE that is running on Red Hat OpenShift to write, test and deploy these services:
 
@@ -14,5 +16,6 @@ During the various steps of the the workshop you will use CodeReady Workspaces, 
 
 The outcome is an online store with a catalog of product items and an inventory of stock:
 
-![CoolStore Shop](coolstore-shop.png)
+<img src="coolstore-web.png" width="600" alt="Coolstore Shop">
+
 
