@@ -29,6 +29,6 @@ The outcome is an online store with a catalog of product items and an inventory 
 
 ## Developer Workspace
 
-[![Contribute](https://raw.githubusercontent.com/blues-man/cloud-native-workshop/demo/factory-contribute.svg)](https://codeready-openshift-workspaces.apps.credit-suisse.7bwh.p1.openshiftapps.com/factory?url=https://github.com/modernizing-java-applications-book/web-nodejs&policies.create=peruser)
+[![Contribute](https://raw.githubusercontent.com/blues-man/cloud-native-workshop/demo/factory-contribute.svg)](https://codeready-openshift-workspaces.apps.crc.testing/factory?url=https://github.com/modernizing-java-applications-book/web-nodejs&policies.create=peruser)
 
 
