@@ -22,6 +22,17 @@ Example:
 COOLSTORE_GW_ENDPOINT=http://gateway-vertx.somewhere.tld
 ```
 
+If you are using **HTTPS** please consider CORS and use HTTPS everywhere, use this environment variable:
+
+```
+SECURE_COOLSTORE_GW_ENDPOINT
+```
+
+Example:
+```
+SECURE_COOLSTORE_GW_ENDPOINT=https://gateway-vertx.somewhere.tld
+```
+
 The outcome is an online store with a catalog of product items and an inventory of stock:
 
 <img src="coolstore-web.png" width="600" alt="Coolstore Shop">
