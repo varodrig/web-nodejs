@@ -20,6 +20,9 @@ app.use(bodyParser.urlencoded({extended: false}));
 // Enable CORS support
 app.use(cors());
 
+// Add the ability to force the application into a degraded state
+require('./middleware/boom')(app)
+
 // error handling
 app.use(function(err, req, res, next) {
     console.error(err.stack);
