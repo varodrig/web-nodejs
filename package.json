@@ -1,5 +1,5 @@
 {
-  "name": "web",
+  "name": "web-nodejs",
   "description": "Web UI for the CoolStore Microservices App",
   "version": "1.0.0",
   "author": "Red Hat, Inc.",
