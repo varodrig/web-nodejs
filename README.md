@@ -1,5 +1,5 @@
 # web-nodejs
-CoolStore Frontend with NodeJS and AngularJS
+CoolStore Frontend with NodeJS and AngularJS.
 
 
 The overall architecture of the application that you will deploy is the following:
