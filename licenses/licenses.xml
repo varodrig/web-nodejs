@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <licenseSummary>
-    <project>web</project>
+    <project>web-nodejs</project>
     <version>1.0.0</version>
     <license>Apache-2.0</license>
     <dependencies>
