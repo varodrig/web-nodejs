@@ -33,6 +33,8 @@ Example:
 SECURE_COOLSTORE_GW_ENDPOINT=https://gateway-vertx.somewhere.tld
 ```
 
+The UI fetches products every 5 seconds by default. This can be changed by setting the `PRODUCT_REFRESH_INTERVAL` to a value represented in milliseconds, e.g `PRODUCT_REFRESH_INTERVAL=3000` for a 3 second refresh interval.
+
 The outcome is an online store with a catalog of product items and an inventory of stock:
 
 <img src="coolstore-web.png" width="600" alt="Coolstore Shop">
